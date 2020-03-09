@@ -1,4 +1,5 @@
 HELP.md
+*.properties
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
@@ -18,7 +19,6 @@ target/
 *.iws
 *.iml
 *.ipr
-
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -26,6 +26,5 @@ target/
 /nbdist/
 /.nb-gradle/
 build/
-
 ### VS Code ###
 .vscode/
