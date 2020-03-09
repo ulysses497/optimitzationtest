@@ -2,6 +2,7 @@ package com.test.optest.controller;
 
 public class TestPush {
     private Integer test1;
+    private Integer test2;
 
     public Integer getTest1() {
         return test1;
